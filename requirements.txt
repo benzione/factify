@@ -1,0 +1,7 @@
+python-dotenv
+Flask
+Flask-RESTful
+pypdf
+google-generativeai
+pydantic
+reportlab 

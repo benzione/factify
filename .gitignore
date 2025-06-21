@@ -1,0 +1,16 @@
+.pytest_cache
+.crusor
+.cache/*.json
+*.env
+*.log
+*.pdf
+*.json
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.odt
+*.mdc
